@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>React TypeScript</h1>
-      <Greet  />
+      <Greet  name= 'Rosi'/>
     </div>
   );
 }
